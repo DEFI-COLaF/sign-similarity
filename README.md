@@ -1,5 +1,3 @@
-**This is a TEMPORARY repository. It will be updated in the following weeks to redirect to the permanent repository**
-
 # Repository Overview
 
 This repository documents the code and work of Kehina Manseri during her internship with the MultiSpeech team, within Inria and Loria laboratories, Université de Lorraine, France.
