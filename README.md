@@ -1,9 +1,15 @@
+
+# Phonological sign language similarity
+
+![icon](doc/README/icon.jpg)
+
+
 # Repository Overview
 
 This repository documents the code and work of Kehina Manseri during her internship with the MultiSpeech team, within Inria and Loria laboratories, Université de Lorraine, France.
 This work is part of [Défi Colaf](https://colaf.huma-num.fr/), financed by Plan National de Recherche en Intelligence Artificielle.
 
-This work is documented in the publication : K Manseri, S Bigeard, S Ouni. Preprocessing MediaPipe Joint Annotation for Sign Language Similarity Analysis. SLTAT 2025 (incoming)
+This work is documented in the publication : K Manseri, S Bigeard, S Ouni. Preprocessing MediaPipe Joint Annotation for Sign Language Similarity Analysis. SLTAT 2025 [DOI: 10.1145/3742886.3756716 ](https://doi.org/10.1145/3742886.3756716)
 
 The goal of this repository is the study of **phonological similarity** between dictionary videos in sign languages.
 It allows to find the most phonologically similar videos within a corpus of single-sign videos.
