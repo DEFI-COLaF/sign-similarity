@@ -56,8 +56,12 @@ All methods are documented in detail both below and in the individual `README.md
 
 This general README aims to introduce key concepts and provide an overview of the similarity assessment pipeline, helping you better understand the detailed explanations provided in the other READMEs.
 
----
 
+# How to cite
+Kehina Manseri, Sam Bigeard, and Slim Ouni. 2025. Preprocessing MediaPipe Joint Annotation for Sign Language Similarity Analysis. In Adjunct Proceedings of the 25th ACM International Conference on Intelligent Virtual Agents (IVA Adjunct '25). Association for Computing Machinery, New York, NY, USA, Article 20, 1–9. https://doi.org/10.1145/3742886.3756716
+
+
+---
 
 # Repository contents
 
@@ -297,3 +301,4 @@ Directly comparing poses embeddings to measure similarity on our datasets, to wh
   |-----------------|-------|-------|--------|--------|--------|
   | WordNet Subset  | 0.12  | 0.22  | 0.30   | 0.40   | 0.56   |
   | WLASL           |  TODO  |   |    |    |    |
+  
